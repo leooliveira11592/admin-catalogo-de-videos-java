@@ -9,7 +9,7 @@ import org.springframework.core.env.AbstractEnvironment;
 
 @SpringBootApplication
 public class Main {
-
+    
     private static final Logger LOG = LoggerFactory.getLogger(Main.class);
 
     public static void main(String[] args) {
